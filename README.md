@@ -1,6 +1,5 @@
-# README
+# Extensions Pack For Python
 
-## This is the README for your extension pack "extensions-pack-python"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 

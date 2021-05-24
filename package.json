@@ -2,6 +2,7 @@
     "name": "extensions-pack-python",
     "displayName": "extensions-pack-python",
     "description": "The python extensions pack of VS Code.",
+    "publisher": "ahchoo",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
@@ -10,6 +11,6 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "ms-python.python"
     ]
 }
