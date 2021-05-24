@@ -2,6 +2,7 @@
     "name": "extensions-pack-python",
     "displayName": "extensions-pack-python",
     "description": "The python extensions pack of VS Code.",
+    "repository": "https://github.com/ah-choo/extensions-pack-python.git",
     "publisher": "ahchoo",
     "version": "0.0.1",
     "engines": {
