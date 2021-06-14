@@ -12,6 +12,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "ms-python.python"
+        "ms-python.python",
+	"magicstack.magicpython"
     ]
 }
